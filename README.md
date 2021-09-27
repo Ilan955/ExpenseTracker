@@ -9,3 +9,6 @@ This project work with React completly, and with all of it latest technologys. i
 An option to add new Expenses in the top of the website:
 
 ![image](https://user-images.githubusercontent.com/71960259/134930867-202a346d-262a-43ea-8cd1-16b87d3b79dd.png)
+
+
+As you can see there is  a Graph that showing the expenses of the entire year by monthes.
